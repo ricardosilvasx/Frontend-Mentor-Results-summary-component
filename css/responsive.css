@@ -1,0 +1,13 @@
+@media(max-width: 375px){
+   main{
+   display: block;
+   }
+   .result{
+    width: 100vw;
+    border-radius: 0 0 30px 30px;
+   } 
+   .summary{
+    width: 100vw;
+   }
+
+}
